@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varalakshmi</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdigital-technology&psig=AOvVaw1lLQhGYvBVnH2VS5jLIzzd&ust=1739123961224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCD7-LTtIsDFQAAAAAdAAAAABAp" width="450px" align="right" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varucoder&label=Profile%20views&color=0e75b6&style=flat" alt="varucoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varucoder" alt="varucoder" /></a> </p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdigital-technology&psig=AOvVaw1lLQhGYvBVnH2VS5jLIzzd&ust=1739123961224000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCD7-LTtIsDFQAAAAAdAAAAABAp" width="450px" align="right" alt="">
+
+
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Express.js**

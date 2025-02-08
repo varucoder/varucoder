@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varucoder&label=Profile%20views&color=0e75b6&style=flat" alt="varucoder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varucoder" alt="varucoder" /></a> </p>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQzdHBjdDNodXA5M2QyNTM2aHFuZHl3Ynd3NzJxZHBkcndpeTVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.gif" alt="">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQzdHBjdDNodXA5M2QyNTM2aHFuZHl3Ynd3NzJxZHBkcndpeTVuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NsBknNwmmWE8WU1q2U/giphy.gif" width="450px" align="right" alt="">
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **Express.js**
